@@ -1,0 +1,6 @@
+{
+  "name": "AvtoTəlim AZ — Realistik 3D Sürücülük Simulyatoru",
+  "description": "Azərbaycan Respublikasının Yol Hərəkəti Qaydalarına və DYP imtahan standartlarına əsaslanan interaktiv 3D BMW M5 sürücülük simulyatoru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
